@@ -159,7 +159,7 @@ padding-right:15px;
 /* margin-top: 20px; */
 transition: all 0.4s ease 0s;
 }
-@media (max-width: 762px){
+@media (max-width: 1000px){
 .item1{
     /* left: 30px; */
 }
@@ -171,13 +171,13 @@ transition: all 0.4s ease 0s;
     
 }
 }
-@media (min-width: 726px) and (max-width: 1024px){
+@media (min-width: 726px) and (max-width: 1500px){
     .item2{
-        right: 100px;
+        right: 200px;
         
     }
     .item1{
-        left: 100px;
+        left: 200px;
         
     }
     }
